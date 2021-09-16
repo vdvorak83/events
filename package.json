@@ -7,11 +7,11 @@
   "dependencies": {
     "auth0-js": "^9.4.2",
     "dotenv": "^5.0.1",
-    "gatsby": "^1.9.241",
+    "gatsby": "^3.0.0",
     "gatsby-link": "^1.6.39",
     "gatsby-plugin-react-helmet": "^2.0.8",
     "react-helmet": "^5.2.0",
-    "snyk": "^1.70.3"
+    "snyk": "^1.316.0"
   },
   "keywords": [
     "gatsby"
